@@ -44,5 +44,5 @@ jobs:
         uses: actions/upload-artifact@v2.3.1
         with:
           path: |
-            ra1npoc_macosx
-            ra1npoc_ios
+            src/ra1npoc_macosx
+            src/ra1npoc_ios
